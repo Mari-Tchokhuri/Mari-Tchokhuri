@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📊 GitHub Contribution Graph
+
+![Your GitHub Contribution Graph](https://ghchart.rshah.org/dracula/Mari-Tchokhuri)

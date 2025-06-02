@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 GitHub Contribution Graph
-
-![image](https://github.com/user-attachments/assets/d0b5e663-36d4-4f2a-a917-f289548b849c)
-
 
 

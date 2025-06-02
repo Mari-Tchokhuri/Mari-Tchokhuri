@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ### 📊 GitHub Contribution Graph
 
-![Your GitHub Contribution Graph](https://ghchart.rshah.org/dracula/Mari-Tchokhuri)
+<img src="https://ghchart.rshah.org/dracula/yourusername" alt="yourusername's GitHub chart" />
+

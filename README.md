@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Contribution Graph
 
-![octocat's GitHub contributions](https://ghchart.rshah.org/dracula/Mari-Tchokhuri)
+![image](https://github.com/user-attachments/assets/d0b5e663-36d4-4f2a-a917-f289548b849c)
+
 
 
